@@ -1,0 +1,20 @@
+After converting two different file to implement WATSONX. 
+Here is the link: 
+https://servicesessentials.ibm.com/curatorai/apps/ui/new-chat/
+Note: WatsonX has 500-1000 words limit. But word limit is 2500 
+this limit is tested. 
+Insert Integration:
+Document Builder
+
+Sample Recording: 
+https://jnj-my.sharepoint.com/personal/manis_its_jnj_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmanis%5Fits%5Fjnj%5Fcom%2FDocuments%2FRecordings%2FMDG%20%2D%20Workshop%20%2D%20Session2%20%2D%20Cost%20Objects%20%2D20240626%5F090926%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E3b127f2d%2D711d%2D44da%2D8dbe%2D192bb8f143ae
+
+
+
+API key:
+l8UpX_8GvYwd0JNoxuRdRc5fxarSZK-5FSytH5bYnprz
+
+URL:
+https://api.au-syd.natural-language-understanding.watson.cloud.ibm.com/instances/27e2c4f6-b7b4-442a-8500-0502c2f1ccbe
+
+
